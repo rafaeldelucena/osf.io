@@ -6,6 +6,7 @@
         "figshare",
         "forward",
         "github",
+        "gitlab",
         "mendeley",
         "zotero",
         "osfstorage",
@@ -23,6 +24,7 @@
         "forward": "full",
         "googledrive": "partial",
         "github": "partial",
+        "gitlab": "partial",
         "s3": "partial",
         "wiki": "full"
     },
@@ -33,6 +35,7 @@
         "dropbox",
         "figshare",
         "github",
+        "gitlab",
         "googledrive",
         "s3"
     ],

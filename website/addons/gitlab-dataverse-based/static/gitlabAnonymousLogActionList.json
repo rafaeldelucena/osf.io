@@ -1,0 +1,11 @@
+{
+    "gitlab_file_added" : "A user added a file to a GitLab dataset in a project",
+    "gitlab_file_removed" : "A user removed a file from a GitLab dataset in a project",
+    "gitlab_dataset_linked" : "A user linked a GitLab dataset to a project",
+    "gitlab_study_linked" : "A user linked a GitLab dataset to a project",
+    "gitlab_dataset_published" : "A user published a new version of a GitLab dataset to a project",
+    "gitlab_study_released" : "A user published a new version of a GitLab dataset to a project",
+    "gitlab_node_authorized" : "A user authorized the GitLab addon for a project",
+    "gitlab_node_deauthorized" : "A user deauthorized the GitLab addon for a project",
+    "gitlab_node_deauthorized_no_user" : "GitLab addon for a project deauthorized"
+}
